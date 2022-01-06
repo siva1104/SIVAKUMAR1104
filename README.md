@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SIVAKUMAR1104
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @R SIVA KUMAR
+- 👀 I’m interested in 'Data Science'
+- 🌱 I’m currently learning 'Machine learning' and 'AI'
+- 💞️ I’m looking to collaborate on Companies which would improve my knowledge 
+- 📫 How to reach me : LinkedIN - https://www.linkedin.com/feed/?trk=opento_lp
+-                       Kaggle - https://www.kaggle.com/
+-                       Instagram - https://www.instagram.com/
 
 <!---
 SIVAKUMAR1104/SIVAKUMAR1104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

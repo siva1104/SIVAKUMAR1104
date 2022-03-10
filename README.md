@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R SIVA KUMAR
+- 👋 Hi, I’m @R Siva Kumar
 - 👀 I’m interested in 'Data Science'
 - 🌱 I’m currently learning 'Machine learning' and 'AI'
 - 💞️ I’m looking to collaborate on Companies which would improve my knowledge 
